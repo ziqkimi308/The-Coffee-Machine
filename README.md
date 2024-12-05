@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### The Coffee Machine
+# The Coffee Machine
 
 - The Coffee Machine project is a simulation of a coffee vending machine that can serve multiple types of coffee. It allows users to order different drinks (latte, espresso, cappuccino), checks if the machine has enough resources to make the order, processes payments, and deducts the ingredients used. The program also tracks the current profit and available resources, offering a simple yet interactive way to run a coffee machine.
 
